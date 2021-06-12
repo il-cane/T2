@@ -12,7 +12,7 @@
     <schedules />
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>echo TestP3</exec>
+        <exec>echo MyTestP3</exec>
       </command>
     </sequence>
     <uuid>8f000940-06c7-42c9-bde4-56e2e010f3b2</uuid>
