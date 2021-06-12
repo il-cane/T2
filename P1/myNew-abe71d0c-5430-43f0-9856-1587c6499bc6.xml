@@ -12,7 +12,7 @@
     <schedules />
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>echo NewOne</exec>
+        <exec>echo NewOneJob</exec>
       </command>
     </sequence>
     <uuid>abe71d0c-5430-43f0-9856-1587c6499bc6</uuid>
