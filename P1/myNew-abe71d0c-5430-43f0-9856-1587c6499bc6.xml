@@ -1,0 +1,20 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>abe71d0c-5430-43f0-9856-1587c6499bc6</id>
+    <loglevel>INFO</loglevel>
+    <name>myNew</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>echo NewOne</exec>
+      </command>
+    </sequence>
+    <uuid>abe71d0c-5430-43f0-9856-1587c6499bc6</uuid>
+  </job>
+</joblist>
