@@ -1,0 +1,20 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>98d48c06-3b60-4b79-a8f9-1be3bb6e384e</id>
+    <loglevel>INFO</loglevel>
+    <name>Testp2</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>echo TestP2</exec>
+      </command>
+    </sequence>
+    <uuid>98d48c06-3b60-4b79-a8f9-1be3bb6e384e</uuid>
+  </job>
+</joblist>
